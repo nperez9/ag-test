@@ -1,6 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Service to work as in memory cache for an image API.
 
 ### How to start
 
